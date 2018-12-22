@@ -6,4 +6,4 @@ Creation of a standard search bar that retrieves data from Unplash API after use
 
 ### `example`
 
-![San Francisco Bay](/screenshots/SF.png "San Francisco")
+![Screenshot](/screenshots/SF.PNG)
