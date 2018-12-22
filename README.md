@@ -5,4 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Creation of a standard search bar that retrieves data from Unplash API after user inputs what pictures they want.
 
 ### `example`
-![San Francisco Bay](screenshots/SF.png "San Francisco")
+
+![San Francisco Bay](/screenshots/SF.png "San Francisco")
