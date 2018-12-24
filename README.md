@@ -7,3 +7,4 @@ Creation of a standard search bar that retrieves data from Unplash API after use
 ### `example`
 
 ![Screenshot](/screenshots/SF.PNG)
+![Screenshot](/screenshots/Tech.PNG)
